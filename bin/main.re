@@ -12,4 +12,4 @@ let to_string = (~a: a) =>
   | C => "C"
   };
 
-let () = print_endline(to_string(~a=));
+let () = print_endline(to_string(~a=Aaaa));

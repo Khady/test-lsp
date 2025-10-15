@@ -16,4 +16,4 @@ let to_string2 a =
   | B -> "B"
   | C -> "C"
 
-let () = print_endline (to_string ~a:)
+let () = print_endline (to_string ~a:A)
